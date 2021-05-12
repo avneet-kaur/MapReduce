@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.0-tests.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-nativetask-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-client-uploader-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Avneetpannu/Downloads/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Avneetpannu/Downloads/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/hadoop/3.3.0/libexec/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
